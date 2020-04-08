@@ -1,5 +1,5 @@
 /*Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode
-começa em um dia e terminar em outro, tendo uma duração minima e maxima de 24 horas*/
+começa em um dia e terminar em outro, tendo uma duração minima de 1 hora e maxima de 24 horas*/
 
 package aula_07042020;
 
