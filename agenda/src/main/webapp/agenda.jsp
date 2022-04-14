@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
-    pageEncoding="utf-8"%>
+	pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,6 +10,17 @@
 </head>
 <body>
 	<h1>Agenda de contatos</h1>
-	<a href="" class="btn">Novo contato</a>
+	<a href="novo.html" class="btn">Novo contato</a>
+	<table>
+		<thead>
+			
+		</thead>
+		<tbody>
+		
+		</tbody>
+		<tfoot>
+		
+		</tfoot>
+	</table>
 </body>
 </html>
